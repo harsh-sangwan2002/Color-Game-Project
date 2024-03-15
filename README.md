@@ -29,7 +29,7 @@ Please include the following cdn link tags before testing the website
 
 ## Usage
 
-A Color Game.
+Match the hues! Explore vibrant levels, solve puzzles, and master color combos. Built with HTML, CSS, and JS.
 
 Click on
 
