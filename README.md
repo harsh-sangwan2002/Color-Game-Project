@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Color-Game-Project/)
+- [Link](https://harsh-sangwan2002.github.io/Color-Game-Project/)
 
 A quick guide to my Project ->
 
